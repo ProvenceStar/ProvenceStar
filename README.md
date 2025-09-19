@@ -69,7 +69,7 @@
 ## 🤝 Connect with me
 <p align="center">
   <!-- Google Scholar -->
-  <a href="https://scholar.google.com/citations?user=Pjx2DdQAAAAJ&hl=en">
+  <a href="https://scholar.google.com/citations?user=zQ0P3JAAAAAJ&hl">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <!-- GitHub -->
